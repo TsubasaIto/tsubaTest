@@ -16,6 +16,8 @@ namespace TestApp
 
             var b = a.Aprop;
 
+            var c = a.Aprop;
+
         }
     }
 

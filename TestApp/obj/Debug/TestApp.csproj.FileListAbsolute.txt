@@ -6,3 +6,12 @@ c:\users\itots_000\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Deb
 c:\users\itots_000\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
 c:\users\itots_000\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
 c:\users\itots_000\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Github\tsubaTest\TestApp\bin\Debug\TestApp.exe.config
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.exe
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.pdb
+C:\Github\tsubaTest\TestApp\bin\Debug\TestApp.exe
+C:\Github\tsubaTest\TestApp\bin\Debug\TestApp.pdb
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Github\tsubaTest\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
